@@ -1,0 +1,26 @@
+name,ring,quadrant,isNew,description
+Burp Suite,Adopt,Tools,FALSE,placeholder
+ZAP Proxy,Adopt,Tools,FALSE,placeholder
+Nuclei,Trial,Tools,FALSE,placeholder
+SonarQube,Adopt,Platforms,FALSE,placeholder
+Snyk,Adopt,Platforms,FALSE,placeholder
+Jmeter,Hold,Tools,FALSE,placeholder
+Locust,Adopt,Tools,FALSE,placeholder
+Taurus,Adopt,Tools,FALSE,placeholder
+Artillery,Adopt,Tools,FALSE,placeholder
+Gatling,Assess,Tools,FALSE,placeholder
+Nunit,Hold,Languages & frameworks,FALSE,placeholder
+Xunit,Adopt,Languages & frameworks,FALSE,placeholder
+Junit,Adopt,Languages & frameworks,FALSE,placeholder
+Jest,Adopt,Languages & frameworks,FALSE,placeholder
+Mocha,Adopt,Languages & frameworks,FALSE,placeholder
+Jasmine,Adopt,Languages & frameworks,FALSE,placeholder
+React Testing Library,Assess,Languages & frameworks,FALSE,placeholder
+Enzyme,Assess,Languages & frameworks,FALSE,placeholder
+Selenium WebDriver,Hold,Techniques,FALSE,placeholder
+Cypress,Adopt,Techniques,FALSE,placeholder
+Playwright,Trial,Techniques,FALSE,placeholder
+Pact,Hold,Techniques,FALSE,placeholder
+PactFlow,Hold,Techniques,FALSE,placeholder
+Schema Registry,Assess,Techniques,FALSE,placeholder
+Postman,Adopt,Techniques,FALSE,placeholder
